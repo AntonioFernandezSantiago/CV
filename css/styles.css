@@ -1,0 +1,140 @@
+/* Tags*/
+
+body{
+    background-color: mintcream;
+    margin:0px;
+    text-align:center;
+    font-family: 'Alfa Slab One', cursive;
+    }
+hr{
+    background-color: #AAAAAA;
+    width:15%;
+    border: 0px;
+    margin:100px auto 100px auto;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Russo One', sans-serif;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    }
+h3{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+
+/*Class*/
+
+.top-container{
+    background-color:#CCFFFF;
+    padding-bottom: 10px;
+    position:relative;
+    width:100%;
+
+}
+
+.middle-container{
+    font-family: 'Russo One', sans-serif;
+    font-size: 1em;
+    }
+
+.bottom-container{
+
+}
+
+.skil-row{
+    text-align:center;
+}
+
+
+
+/*Id*/
+
+#cat{
+    width:45px;
+    position:relative;
+    top:40px;
+    left:10px;
+}
+
+#nombre{
+    font-size: 40px;
+    margin: 25 auto 0 auto;
+    position:relative;
+    top:30px;
+}
+
+#primera_linea{
+    font-size:22px;
+    position:relative;
+}
+
+#primera_linea_2{
+    font-size:25px;
+    position:relative;
+}
+
+#segunda_linea{
+    font-size:20px;
+    position:relative;
+    top: 00px;
+}
+
+#educacion_oficial{
+    text-align:left;
+    position:relative;
+    left:20%;
+
+}
+
+#educacion_extraoficial{
+    text-align:left;
+    position:relative;
+    left:20%;
+}
+
+#foto{
+    margin:20px auto 0px auto;
+    width:15%;
+    border-radius: 100%;
+}
+
+#tijera{
+    width: 150px;
+}
+
+#pelicula{
+    width: 70px;
+    margin: 40px auto 40px auto;
+}
+
+#experiencia{
+    position:relative;
+    left: 500px;
+}
+
+#capacidades{
+    position:relative;
+    left: 450px;
+}
+
+#hobbies{
+    position:relative;
+    left:450px;
+    text-align:left;
+
+}
+
+#datos{
+    position:relative;
+    text-align:left;
+    left:300px;
+
+}
